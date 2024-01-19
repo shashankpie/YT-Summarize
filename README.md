@@ -1,2 +1,2 @@
 # YT-Summarize
-Summarize youtube videos with a URL
+Summarize YouTube videos with a URL
