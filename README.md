@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-- Node.js: Version 20 or higher. [Download Node.js](https://nodejs.org/)
+- Node.js: Version 20 or higher
 - npm: Comes with Node.js. Alternatively, you can use Yarn or pnpm as your package manager.
 
 ### Installation
