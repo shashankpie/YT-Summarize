@@ -25,10 +25,8 @@ yarn-error.log*
 # Optional: If you have custom build or cache directories
 dist/
 .cache/
-/coverage/
-
-# Production
 /build
+/coverage/
 
 # Miscellaneous
 .DS_Store
