@@ -5,6 +5,7 @@ export default function Home() {
     <main>
       <div>
         <p>This project is currently under progress. Stay tuned!</p>
+        <p>Just a test for dev branch</p>
       </div>
     </main>
   );
