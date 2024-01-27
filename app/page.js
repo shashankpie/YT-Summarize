@@ -10,7 +10,8 @@ export default function Home() {
   const handleSubmit = (e) => {
     e.preventDefault();
     // You'll need to handle the URL submission here
-    console.log('URL submitted:', url);
+    console.log('URL submitted: ', url);
+    console.log('Test');
   };
 
   return (
